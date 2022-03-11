@@ -56,6 +56,7 @@ Note:
 
 + antimon2: Juliaってこんなことできます(仮)
 + ねずろう›: 量子回路シミュレータとjulia言語
++ ごまふあざらし: [PyCallChainRules.jl 入門](https://terasakisatoshi.github.io/MathSeminar.jl/slideshow/pycallchainrules/build/#1)
 + …
 
 ---
